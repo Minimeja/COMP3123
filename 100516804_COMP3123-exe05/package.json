@@ -1,0 +1,20 @@
+{
+  "name": "100516804_comp3123-exec05",
+  "version": "1.0.0",
+  "description": "COMP3123 Exec05 - Express routes with MongoDB Atlas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Minilik Meja",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^4.19.2",
+    "mongoose": "^8.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
